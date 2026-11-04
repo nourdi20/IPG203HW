@@ -1,0 +1,15 @@
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\bin\Debug\net8.0\AppLianceMaintenanceSystem.exe
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\bin\Debug\net8.0\AppLianceMaintenanceSystem.deps.json
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\bin\Debug\net8.0\AppLianceMaintenanceSystem.runtimeconfig.json
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\bin\Debug\net8.0\AppLianceMaintenanceSystem.dll
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\bin\Debug\net8.0\AppLianceMaintenanceSystem.pdb
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.AssemblyInfoInputs.cache
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.AssemblyInfo.cs
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.csproj.CoreCompileInputs.cache
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.dll
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\refint\AppLianceMaintenanceSystem.dll
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.pdb
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.genruntimeconfig.cache
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\ref\AppLianceMaintenanceSystem.dll
+C:\Users\NSR CENTER\Desktop\AppLianceMaintenanceSystem\AppLianceMaintenanceSystem\obj\Debug\net8.0\AppLianceMaintenanceSystem.sourcelink.json
